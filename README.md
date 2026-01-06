@@ -60,7 +60,7 @@
 <h2 align="center"> </h2>
 
 <p align="right">
-    📬 Contact with me
+    📬 Contact me
 </p>
 <p align="right">
   <a href="https://t.me/ynnmr">

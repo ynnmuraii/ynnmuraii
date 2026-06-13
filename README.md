@@ -35,25 +35,41 @@ I use other tools as well, but this is my main stack.
 ### 🛠 about.json
 
 ```json
-{
-  "name": "Danila R.O.",
-  "nickname": "ynnmuraii",
-  "role": "Python Backend Developer",
-  "subrole": "ML/AI Engineer",
-  "location": "Cyberspace / Povolzhye",
-
-  "about": "Building backend services and tools in my spare time, "
-           "moving into ML/AI and keeping an eye on code and system security.",
-  "focus": ["Backend services", "Developer Tooling", "ML/AI"],
-  "interests": ["ML/AI", "Cybersecurity", "Chill life", "Games", "Formula 1"],
-  
-  "university": "Samara National Research University",
-  "education_level": "Specialist degree (Russia)",
-  "major": "Information Security of Automated Systems"
-
-  "status": "Studying & building side projects",
-  "vibe": "Make today that future me won`t hate it.",
-  "availability": "Open to interesting collaboration invites"
+{ 
+  "name": "Danila R.O.", 
+  "nickname": "ynnmuraii", 
+  "role": "Backend & Agentic AI Developer", 
+  "location": "Cyberspace / Povolzhye", 
+  "about": "Building backend services, local AI agents and developer tools.", 
+  "focus": 
+  [ 
+    "Agentic systems", 
+    "Local LLM inference", 
+    "Multi-agent orchestration", 
+    "Developer tooling", 
+    "Backend services" 
+  ], 
+  "currently_building": 
+  [ 
+    "LLM agents", 
+    "Local orchestration systems", 
+    "RAG applications", 
+    "AI-assisted tools" 
+  ], 
+  "interests": 
+  [ 
+    "Artificial Intelligence", 
+    "Cybersecurity", 
+    "Performance Engineering", 
+    "Games", 
+    "Formula 1" 
+  ], 
+  "university": "Samara National Research University", 
+  "education_level": "Specialist degree", 
+  "major": "Information Security of Automated Systems", 
+  "status": "Studying, working and building agentic systems", 
+  "vibe": "Make today that future me won't hate.", 
+  "availability": "Open to interesting collaborations" 
 }
 ```
 

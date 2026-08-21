@@ -1,8 +1,6 @@
 <p align="center">
 <img src="https://i.pinimg.com/1200x/b7/a1/58/b7a1580e193fe0b517bf2efeb255c278.jpg" alt="Banner" width="100%">
 </p>
-
-
 <p align="center">
 <pre>
                                                                                                                              
@@ -17,61 +15,61 @@
                             OOb"   
 </pre>
 </p>
+<p align="center"> <b>Agentic AI & Backend Developer</b><br> Local LLM systems · Developer tooling · Performance engineering </p>
 
 <h2 align="center"> </h2>
 
-### 🧬 Skills & Tools
+### 🧬 Stack
 
-- Languages: ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-- ML/LLM: ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)![HuggingFace](https://img.shields.io/badge/huggingface-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=white)![LangChain](https://img.shields.io/badge/langchain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
-- Frontend: ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-- Backend: ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-- Tools: ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+- **Languages:**  
+  ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-I use other tools as well, but this is my main stack.
+- **Agentic AI / LLM:**  
+  ![llama.cpp](https://img.shields.io/badge/llama.cpp-3B3B3B?style=for-the-badge)
+  ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+  ![OpenAI-compatible APIs](https://img.shields.io/badge/OpenAI--compatible%20APIs-444444?style=for-the-badge)
+  ![faster-whisper](https://img.shields.io/badge/faster--whisper-0A6C6A?style=for-the-badge)
 
+- **Backend:**  
+  ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+  ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+  ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+- **Interfaces & Tooling:**  
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+  ![Chrome Extensions](https://img.shields.io/badge/Chrome%20Extensions-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+
+- **Performance & Data:**  
+  ![Apache JMeter](https://img.shields.io/badge/Apache%20JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
+  ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+  ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white)
+  ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+- **Engineering:**  
+  ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+  ![mypy](https://img.shields.io/badge/mypy-2A6DB2?style=for-the-badge)
+  ![Ruff](https://img.shields.io/badge/Ruff-D7FF64?style=for-the-badge&logo=ruff&logoColor=black)
+  ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+  ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 <h2 align="center"> </h2>
 
-### 🛠 about.json
+About
 
-```json
-{ 
-  "name": "Danila R.O.", 
-  "nickname": "ynnmuraii", 
-  "role": "Backend & Agentic AI Developer", 
-  "location": "Cyberspace / Povolzhye", 
-  "about": "Building backend services, local AI agents and developer tools.", 
-  "focus": 
-  [ 
-    "Agentic systems", 
-    "Local LLM inference", 
-    "Multi-agent orchestration", 
-    "Developer tooling", 
-    "Backend services" 
-  ], 
-  "currently_building": 
-  [ 
-    "LLM agents", 
-    "Local orchestration systems", 
-    "RAG applications", 
-    "AI-assisted tools" 
-  ], 
-  "interests": 
-  [ 
-    "Artificial Intelligence", 
-    "Cybersecurity", 
-    "Performance Engineering", 
-    "Games", 
-    "Formula 1" 
-  ], 
-  "university": "Samara National Research University", 
-  "education_level": "Specialist degree", 
-  "major": "Information Security of Automated Systems", 
-  "status": "Studying, working and building agentic systems", 
-  "vibe": "Make today that future me won't hate.", 
-  "availability": "Open to interesting collaborations" 
-}
-```
+I build local-first AI tools, agentic systems and backend services.
+
+Currently working at BFT.Holding, where I’m involved in performance engineering, automation using LLMs and AI-assisted developer tooling.
+
+Most of my personal work is focused on LLM agents, local inference, developer tools and the infrastructure around them.
+
+Information Security student @ Samara National Research University.
 
 <h2 align="center"> </h2>
 
@@ -82,12 +80,11 @@ I use other tools as well, but this is my main stack.
   <a href="https://t.me/ynnmr">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="mailto:trinhmaianh400@gmail.com">
+  <a href="mailto:tihookeanski.y.tanruuu@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 <p align="right">
-<i>"閃け。
-雷鳴のように轟き、彼方へ消えろ"</i>
+  <sub>Samara · UTC+4</sub>
 </p>
